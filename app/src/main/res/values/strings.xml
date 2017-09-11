@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Books - Settings</string>
+
+    <string name="settings_max_results_label">Maximum number of results</string>
+    <string name="settings_max_results_summary">Use a value of 0 to show all the available results</string>
+    <string name="settings_max_results_key" translatable="false">max_results</string>
+    <string name="settings_max_results_default" translatable="false">0</string>
+    <string name="settings_not_for_sale_label">Include books not for sale</string>
+    <string name="settings_not_for_sale_key" translatable="false">include_not_for_sale</string>
+    <string name="settings_not_for_sale_default" translatable="false">true</string>
+    <string name="settings_not_for_sale_summary">Show only books that have a valid price</string>
+    <string name="results" translatable="false">results</string>
+    <string name="by">by&#160;</string>
+    <string name="not_for_sale">Not for sale</string>
+
+    <string name="query_hint">What are you looking for?</string>
+    <string name="go">GO</string>
+    <string name="nothing_here_yet">There\'s nothing here yet! Search for something and the results will appear here.</string>
+    <string name="nothing_found">Nothing was found! Try again with a different query.</string>
+</resources>
+
